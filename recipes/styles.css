@@ -1,0 +1,32 @@
+.heading {
+    color: green;
+}
+
+.description {
+    color: firebrick;
+}
+
+#ingredients {
+    color:mediumblue
+}
+
+#steps {
+    color: sandybrown;
+}
+
+img {
+    height: auto;
+    width: 250px;
+}
+
+head {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+html {
+    background-color: dimgray;
+}
